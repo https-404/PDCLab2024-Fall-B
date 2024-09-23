@@ -1,0 +1,15 @@
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/bin/Debug/net8.0/Task3
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/bin/Debug/net8.0/Task3.deps.json
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/bin/Debug/net8.0/Task3.runtimeconfig.json
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/bin/Debug/net8.0/Task3.dll
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/bin/Debug/net8.0/Task3.pdb
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/obj/Debug/net8.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/obj/Debug/net8.0/Task3.AssemblyInfoInputs.cache
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/obj/Debug/net8.0/Task3.AssemblyInfo.cs
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/obj/Debug/net8.0/Task3.csproj.CoreCompileInputs.cache
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/obj/Debug/net8.0/Task3.sourcelink.json
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/obj/Debug/net8.0/Task3.dll
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/obj/Debug/net8.0/refint/Task3.dll
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/obj/Debug/net8.0/Task3.pdb
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/obj/Debug/net8.0/Task3.genruntimeconfig.cache
+/home/areesh/RiderProjects/PDCLab2024-Fall-B/Task3/obj/Debug/net8.0/ref/Task3.dll
