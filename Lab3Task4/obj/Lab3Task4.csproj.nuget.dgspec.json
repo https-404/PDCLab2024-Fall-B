@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/areesh/RiderProjects/PDCLab2024-Fall-B/Lab3Task4/Lab3Task4.csproj": {}
+  },
+  "projects": {
+    "/home/areesh/RiderProjects/PDCLab2024-Fall-B/Lab3Task4/Lab3Task4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/areesh/RiderProjects/PDCLab2024-Fall-B/Lab3Task4/Lab3Task4.csproj",
+        "projectName": "Lab3Task4",
+        "projectPath": "/home/areesh/RiderProjects/PDCLab2024-Fall-B/Lab3Task4/Lab3Task4.csproj",
+        "packagesPath": "/home/areesh/.nuget/packages/",
+        "outputPath": "/home/areesh/RiderProjects/PDCLab2024-Fall-B/Lab3Task4/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/areesh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/areesh/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
